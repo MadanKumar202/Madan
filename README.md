@@ -140,6 +140,7 @@ This project is licensed under the MIT License.
 🔗 Resources
 
 📂 Documentation & Files: Google Drive
+https://drive.google.com/drive/folders/1OuBvWcRmMQUkcCp8Qr95a5D5z9Mn-MdL
 
 🎥 Demo: YouTube Link
 https://youtu.be/5YCVFD6ltpY?feature=shared
